@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yogesh Ashok Bogar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<p style="border: 1px solid white;"></p>
+
   <img align="center" width="100%"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="coding">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbogar099&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbogar099" /> </p>
-  
- 
+
   
   
 

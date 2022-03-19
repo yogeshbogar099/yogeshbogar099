@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
   <img align="center" width="100%"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="coding">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbogar099&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbogar099" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbogar099&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
   
   
@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on **React, Redux**
 
 - 🌱 I’m currently learning **Full Stack Web Developer at Masai**
+
+- ‍💻 All of my projects are available at [portfolio-xi-lovat-53.vercel.app](portfolio-xi-lovat-53.vercel.app)
 
 - 📝 I write articles on [Yogesh Bogar](https://medium.com/@yogeshbogar099)
 

@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer at Masai**
 
-- ‍💻 All of my projects are available at [portfolio-xi-lovat-53.vercel.app](portfolio-xi-lovat-53.vercel.app)
+- ‍💻 All of my projects are available at [yogesh-portfolio1.vercel.app](yogesh-portfolio1.vercel.app)
 
 - 📝 I write articles on [Yogesh Bogar](https://medium.com/@yogeshbogar099)
 
